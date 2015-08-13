@@ -1,0 +1,1552 @@
+[
+    {
+        "school": "Alger B. Wilkins High School PLC",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Alger B. Wilkins High School PLC",
+        "race": "Black",
+        "val": 3
+    },
+    {
+        "school": "Alger B. Wilkins High School PLC",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Alger B. Wilkins High School PLC",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Alger B. Wilkins High School PLC",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Alma O Easom Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Alma O Easom Elementary",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Alma O Easom Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Alma O Easom Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Alma O Easom Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Anne Chesnutt Middle",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Anne Chesnutt Middle",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Anne Chesnutt Middle",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Anne Chesnutt Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Anne Chesnutt Middle",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Beaver Dam Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Beaver Dam Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Beaver Dam Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Beaver Dam Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Beaver Dam Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Benjamin J Martin Elementary",
+        "race": "American Indian",
+        "val": 4
+    },
+    {
+        "school": "Benjamin J Martin Elementary",
+        "race": "Black",
+        "val": 66
+    },
+    {
+        "school": "Benjamin J Martin Elementary",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Benjamin J Martin Elementary",
+        "race": "Multiracial",
+        "val": 10
+    },
+    {
+        "school": "Benjamin J Martin Elementary",
+        "race": "White",
+        "val": 21
+    },
+    {
+        "school": "Bill Hefner Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Bill Hefner Elementary",
+        "race": "Black",
+        "val": 28
+    },
+    {
+        "school": "Bill Hefner Elementary",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Bill Hefner Elementary",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Bill Hefner Elementary",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "C Wayne Collier Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "C Wayne Collier Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "C Wayne Collier Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "C Wayne Collier Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "C Wayne Collier Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Cape Fear High",
+        "race": "American Indian",
+        "val": 3
+    },
+    {
+        "school": "Cape Fear High",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Cape Fear High",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Cape Fear High",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Cape Fear High",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Cliffdale Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Cliffdale Elementary",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Cliffdale Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Cliffdale Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Cliffdale Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Cross Creek Early College",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Cross Creek Early College",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Cross Creek Early College",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Cross Creek Early College",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Cross Creek Early College",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Cumberland Mills Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Cumberland Mills Elementary",
+        "race": "Black",
+        "val": 4
+    },
+    {
+        "school": "Cumberland Mills Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Cumberland Mills Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Cumberland Mills Elementary",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "Cumberland Road Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Cumberland Road Elementary",
+        "race": "Black",
+        "val": 18
+    },
+    {
+        "school": "Cumberland Road Elementary",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Cumberland Road Elementary",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Cumberland Road Elementary",
+        "race": "White",
+        "val": 5
+    },
+    {
+        "school": "Douglas Byrd High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Douglas Byrd High",
+        "race": "Black",
+        "val": 18
+    },
+    {
+        "school": "Douglas Byrd High",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Douglas Byrd High",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Douglas Byrd High",
+        "race": "White",
+        "val": 5
+    },
+    {
+        "school": "Douglas Byrd Middle",
+        "race": "American Indian",
+        "val": 1
+    },
+    {
+        "school": "Douglas Byrd Middle",
+        "race": "Black",
+        "val": 2
+    },
+    {
+        "school": "Douglas Byrd Middle",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Douglas Byrd Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Douglas Byrd Middle",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "E E Miller Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "E E Miller Elementary",
+        "race": "Black",
+        "val": 12
+    },
+    {
+        "school": "E E Miller Elementary",
+        "race": "Hispanic",
+        "val": 3
+    },
+    {
+        "school": "E E Miller Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "E E Miller Elementary",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "E E Smith High",
+        "race": "American Indian",
+        "val": 5
+    },
+    {
+        "school": "E E Smith High",
+        "race": "Black",
+        "val": 194
+    },
+    {
+        "school": "E E Smith High",
+        "race": "Hispanic",
+        "val": 13
+    },
+    {
+        "school": "E E Smith High",
+        "race": "Multiracial",
+        "val": 4
+    },
+    {
+        "school": "E E Smith High",
+        "race": "White",
+        "val": 19
+    },
+    {
+        "school": "E Melvin Honeycutt Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "E Melvin Honeycutt Elementary",
+        "race": "Black",
+        "val": 4
+    },
+    {
+        "school": "E Melvin Honeycutt Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "E Melvin Honeycutt Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "E Melvin Honeycutt Elementary",
+        "race": "White",
+        "val": 7
+    },
+    {
+        "school": "Elizabeth M Cashwell Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Elizabeth M Cashwell Elementary",
+        "race": "Black",
+        "val": 17
+    },
+    {
+        "school": "Elizabeth M Cashwell Elementary",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Elizabeth M Cashwell Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Elizabeth M Cashwell Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Ferguson-Easley Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Ferguson-Easley Elementary",
+        "race": "Black",
+        "val": 42
+    },
+    {
+        "school": "Ferguson-Easley Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Ferguson-Easley Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Ferguson-Easley Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Gallberry Farm Elementary",
+        "race": "American Indian",
+        "val": 3
+    },
+    {
+        "school": "Gallberry Farm Elementary",
+        "race": "Black",
+        "val": 11
+    },
+    {
+        "school": "Gallberry Farm Elementary",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Gallberry Farm Elementary",
+        "race": "Multiracial",
+        "val": 4
+    },
+    {
+        "school": "Gallberry Farm Elementary",
+        "race": "White",
+        "val": 22
+    },
+    {
+        "school": "Glendale Acres Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Glendale Acres Elementary",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Glendale Acres Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Glendale Acres Elementary",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Glendale Acres Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek Elementary",
+        "race": "American Indian",
+        "val": 3
+    },
+    {
+        "school": "Grays Creek Elementary",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Grays Creek Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek High",
+        "race": "Black",
+        "val": 12
+    },
+    {
+        "school": "Grays Creek High",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek High",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Grays Creek High",
+        "race": "White",
+        "val": 9
+    },
+    {
+        "school": "Grays Creek Middle",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek Middle",
+        "race": "Black",
+        "val": 4
+    },
+    {
+        "school": "Grays Creek Middle",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Grays Creek Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Grays Creek Middle",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "Howard L Hall Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Howard L Hall Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Howard L Hall Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Howard L Hall Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Howard L Hall Elementary",
+        "race": "White",
+        "val": 2
+    },
+    {
+        "school": "Ireland Drive Middle",
+        "race": "American Indian",
+        "val": 6
+    },
+    {
+        "school": "Ireland Drive Middle",
+        "race": "Black",
+        "val": 44
+    },
+    {
+        "school": "Ireland Drive Middle",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Ireland Drive Middle",
+        "race": "Multiracial",
+        "val": 6
+    },
+    {
+        "school": "Ireland Drive Middle",
+        "race": "White",
+        "val": 6
+    },
+    {
+        "school": "J W Coon Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "J W Coon Elementary",
+        "race": "Black",
+        "val": 7
+    },
+    {
+        "school": "J W Coon Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "J W Coon Elementary",
+        "race": "Multiracial",
+        "val": 3
+    },
+    {
+        "school": "J W Coon Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "J W Seabrook Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "J W Seabrook Elementary",
+        "race": "Black",
+        "val": 3
+    },
+    {
+        "school": "J W Seabrook Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "J W Seabrook Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "J W Seabrook Elementary",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "Jack Britt High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Jack Britt High",
+        "race": "Black",
+        "val": 14
+    },
+    {
+        "school": "Jack Britt High",
+        "race": "Hispanic",
+        "val": 4
+    },
+    {
+        "school": "Jack Britt High",
+        "race": "Multiracial",
+        "val": 6
+    },
+    {
+        "school": "Jack Britt High",
+        "race": "White",
+        "val": 9
+    },
+    {
+        "school": "Lewis Chapel Middle",
+        "race": "American Indian",
+        "val": 1
+    },
+    {
+        "school": "Lewis Chapel Middle",
+        "race": "Black",
+        "val": 2
+    },
+    {
+        "school": "Lewis Chapel Middle",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Lewis Chapel Middle",
+        "race": "Multiracial",
+        "val": 2
+    },
+    {
+        "school": "Lewis Chapel Middle",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Lillian Black Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Lillian Black Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Lillian Black Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Lillian Black Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Lillian Black Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Long Hill Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Long Hill Elementary",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Long Hill Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Long Hill Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Long Hill Elementary",
+        "race": "White",
+        "val": 2
+    },
+    {
+        "school": "Loyd E Auman Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Loyd E Auman Elementary",
+        "race": "Black",
+        "val": 14
+    },
+    {
+        "school": "Loyd E Auman Elementary",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Loyd E Auman Elementary",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Loyd E Auman Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Luther Nick Jeralds Middle",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Luther Nick Jeralds Middle",
+        "race": "Black",
+        "val": 10
+    },
+    {
+        "school": "Luther Nick Jeralds Middle",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Luther Nick Jeralds Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Luther Nick Jeralds Middle",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Mac Williams Middle",
+        "race": "American Indian",
+        "val": 1
+    },
+    {
+        "school": "Mac Williams Middle",
+        "race": "Black",
+        "val": 3
+    },
+    {
+        "school": "Mac Williams Middle",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Mac Williams Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Mac Williams Middle",
+        "race": "White",
+        "val": 3
+    },
+    {
+        "school": "Manchester Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Manchester Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Manchester Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Manchester Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Manchester Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Margaret Willis Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Margaret Willis Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Margaret Willis Elementary",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Margaret Willis Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Margaret Willis Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Massey Hill Classical High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Massey Hill Classical High",
+        "race": "Black",
+        "val": 2
+    },
+    {
+        "school": "Massey Hill Classical High",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Massey Hill Classical High",
+        "race": "Multiracial",
+        "val": 1
+    },
+    {
+        "school": "Massey Hill Classical High",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Morganton Road Elementary",
+        "race": "American Indian",
+        "val": 2
+    },
+    {
+        "school": "Morganton Road Elementary",
+        "race": "Black",
+        "val": 28
+    },
+    {
+        "school": "Morganton Road Elementary",
+        "race": "Hispanic",
+        "val": 15
+    },
+    {
+        "school": "Morganton Road Elementary",
+        "race": "Multiracial",
+        "val": 5
+    },
+    {
+        "school": "Morganton Road Elementary",
+        "race": "White",
+        "val": 9
+    },
+    {
+        "school": "New Century International Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "New Century International Elementary",
+        "race": "Black",
+        "val": 15
+    },
+    {
+        "school": "New Century International Elementary",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "New Century International Elementary",
+        "race": "Multiracial",
+        "val": 2
+    },
+    {
+        "school": "New Century International Elementary",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "Pine Forest High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Pine Forest High",
+        "race": "Black",
+        "val": 15
+    },
+    {
+        "school": "Pine Forest High",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Pine Forest High",
+        "race": "Multiracial",
+        "val": 2
+    },
+    {
+        "school": "Pine Forest High",
+        "race": "White",
+        "val": 4
+    },
+    {
+        "school": "Ponderosa Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Ponderosa Elementary",
+        "race": "Black",
+        "val": 4
+    },
+    {
+        "school": "Ponderosa Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Ponderosa Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Ponderosa Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Raleigh Road Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Raleigh Road Elementary",
+        "race": "Black",
+        "val": 1
+    },
+    {
+        "school": "Raleigh Road Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Raleigh Road Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Raleigh Road Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Ramsey Street High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Ramsey Street High",
+        "race": "Black",
+        "val": 11
+    },
+    {
+        "school": "Ramsey Street High",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Ramsey Street High",
+        "race": "Multiracial",
+        "val": 2
+    },
+    {
+        "school": "Ramsey Street High",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Reid Ross Classical High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Reid Ross Classical High",
+        "race": "Black",
+        "val": 9
+    },
+    {
+        "school": "Reid Ross Classical High",
+        "race": "Hispanic",
+        "val": 2
+    },
+    {
+        "school": "Reid Ross Classical High",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Reid Ross Classical High",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Reid Ross Classical Middle",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Reid Ross Classical Middle",
+        "race": "Black",
+        "val": 6
+    },
+    {
+        "school": "Reid Ross Classical Middle",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Reid Ross Classical Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Reid Ross Classical Middle",
+        "race": "White",
+        "val": 2
+    },
+    {
+        "school": "Rockfish Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Rockfish Elementary",
+        "race": "Black",
+        "val": 3
+    },
+    {
+        "school": "Rockfish Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Rockfish Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Rockfish Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Seventy-First Classical Middle",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Seventy-First Classical Middle",
+        "race": "Black",
+        "val": 19
+    },
+    {
+        "school": "Seventy-First Classical Middle",
+        "race": "Hispanic",
+        "val": 5
+    },
+    {
+        "school": "Seventy-First Classical Middle",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Seventy-First Classical Middle",
+        "race": "White",
+        "val": 2
+    },
+    {
+        "school": "Seventy-First High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Seventy-First High",
+        "race": "Black",
+        "val": 11
+    },
+    {
+        "school": "Seventy-First High",
+        "race": "Hispanic",
+        "val": 1
+    },
+    {
+        "school": "Seventy-First High",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Seventy-First High",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Sherwood Park Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Sherwood Park Elementary",
+        "race": "Black",
+        "val": 39
+    },
+    {
+        "school": "Sherwood Park Elementary",
+        "race": "Hispanic",
+        "val": 5
+    },
+    {
+        "school": "Sherwood Park Elementary",
+        "race": "Multiracial",
+        "val": 3
+    },
+    {
+        "school": "Sherwood Park Elementary",
+        "race": "White",
+        "val": 2
+    },
+    {
+        "school": "South View High",
+        "race": "American Indian",
+        "val": 4
+    },
+    {
+        "school": "South View High",
+        "race": "Black",
+        "val": 45
+    },
+    {
+        "school": "South View High",
+        "race": "Hispanic",
+        "val": 4
+    },
+    {
+        "school": "South View High",
+        "race": "Multiracial",
+        "val": 4
+    },
+    {
+        "school": "South View High",
+        "race": "White",
+        "val": 19
+    },
+    {
+        "school": "South View Middle",
+        "race": "American Indian",
+        "val": 4
+    },
+    {
+        "school": "South View Middle",
+        "race": "Black",
+        "val": 94
+    },
+    {
+        "school": "South View Middle",
+        "race": "Hispanic",
+        "val": 13
+    },
+    {
+        "school": "South View Middle",
+        "race": "Multiracial",
+        "val": 23
+    },
+    {
+        "school": "South View Middle",
+        "race": "White",
+        "val": 9
+    },
+    {
+        "school": "Stedman Elementary",
+        "race": "American Indian",
+        "val": 1
+    },
+    {
+        "school": "Stedman Elementary",
+        "race": "Black",
+        "val": 6
+    },
+    {
+        "school": "Stedman Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Stedman Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Stedman Elementary",
+        "race": "White",
+        "val": 10
+    },
+    {
+        "school": "Stedman Primary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Stedman Primary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Stedman Primary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Stedman Primary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Stedman Primary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Stoney Point Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Stoney Point Elementary",
+        "race": "Black",
+        "val": 0
+    },
+    {
+        "school": "Stoney Point Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Stoney Point Elementary",
+        "race": "Multiracial",
+        "val": 2
+    },
+    {
+        "school": "Stoney Point Elementary",
+        "race": "White",
+        "val": 1
+    },
+    {
+        "school": "Teresa C Berrien Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Teresa C Berrien Elementary",
+        "race": "Black",
+        "val": 4
+    },
+    {
+        "school": "Teresa C Berrien Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Teresa C Berrien Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Teresa C Berrien Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Terry Sanford High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Terry Sanford High",
+        "race": "Black",
+        "val": 48
+    },
+    {
+        "school": "Terry Sanford High",
+        "race": "Hispanic",
+        "val": 9
+    },
+    {
+        "school": "Terry Sanford High",
+        "race": "Multiracial",
+        "val": 6
+    },
+    {
+        "school": "Terry Sanford High",
+        "race": "White",
+        "val": 3
+    },
+    {
+        "school": "Walker Spivey Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Walker Spivey Elementary",
+        "race": "Black",
+        "val": 6
+    },
+    {
+        "school": "Walker Spivey Elementary",
+        "race": "Hispanic",
+        "val": 0
+    },
+    {
+        "school": "Walker Spivey Elementary",
+        "race": "Multiracial",
+        "val": 0
+    },
+    {
+        "school": "Walker Spivey Elementary",
+        "race": "White",
+        "val": 0
+    },
+    {
+        "school": "Warrenwood Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Warrenwood Elementary",
+        "race": "Black",
+        "val": 40
+    },
+    {
+        "school": "Warrenwood Elementary",
+        "race": "Hispanic",
+        "val": 9
+    },
+    {
+        "school": "Warrenwood Elementary",
+        "race": "Multiracial",
+        "val": 2
+    },
+    {
+        "school": "Warrenwood Elementary",
+        "race": "White",
+        "val": 8
+    },
+    {
+        "school": "Westover High",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "Westover High",
+        "race": "Black",
+        "val": 120
+    },
+    {
+        "school": "Westover High",
+        "race": "Hispanic",
+        "val": 9
+    },
+    {
+        "school": "Westover High",
+        "race": "Multiracial",
+        "val": 11
+    },
+    {
+        "school": "Westover High",
+        "race": "White",
+        "val": 15
+    },
+    {
+        "school": "Westover Middle",
+        "race": "American Indian",
+        "val": 3
+    },
+    {
+        "school": "Westover Middle",
+        "race": "Black",
+        "val": 262
+    },
+    {
+        "school": "Westover Middle",
+        "race": "Hispanic",
+        "val": 30
+    },
+    {
+        "school": "Westover Middle",
+        "race": "Multiracial",
+        "val": 14
+    },
+    {
+        "school": "Westover Middle",
+        "race": "White",
+        "val": 19
+    },
+    {
+        "school": "William H Owen Elementary",
+        "race": "American Indian",
+        "val": 0
+    },
+    {
+        "school": "William H Owen Elementary",
+        "race": "Black",
+        "val": 36
+    },
+    {
+        "school": "William H Owen Elementary",
+        "race": "Hispanic",
+        "val": 7
+    },
+    {
+        "school": "William H Owen Elementary",
+        "race": "Multiracial",
+        "val": 3
+    },
+    {
+        "school": "William H Owen Elementary",
+        "race": "White",
+        "val": 2
+    }
+]

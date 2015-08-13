@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#barContainer {
+    width: 400px;
+    margin: 10px;
+}
+
+#schoolBar{
+    width: 100%;
+    height: 20px;
+    border: 1px solid black;
+}
+
+#schoolBar div{
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+#sb1 {
+    background-color: #ffb2b2;
+}
+#sb2 {
+    background-color: #b2d1ff;
+}
+#sb3 {
+    background-color: #ccffcc;
+}

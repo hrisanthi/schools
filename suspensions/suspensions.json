@@ -1,0 +1,494 @@
+{"schools":[
+    {
+        "name": "Alger B. Wilkins High School PLC",
+        "americanIndian": 0,
+        "black": 3,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Alma O Easom Elementary",
+        "americanIndian": 0,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Anne Chesnutt Middle",
+        "americanIndian": 0,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Beaver Dam Elementary",
+        "americanIndian": 0,
+        "black": 66,
+        "hispanic": 2,
+        "multiracial": 10,
+        "white": 21
+    },
+    {
+        "name": "Benjamin J Martin Elementary",
+        "americanIndian": 4,
+        "black": 28,
+        "hispanic": 2,
+        "multiracial": 1,
+        "white": 4
+    },
+    {
+        "name": "Bill Hefner Elementary",
+        "americanIndian": 0,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "C Wayne Collier Elementary",
+        "americanIndian": 0,
+        "black": 1,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Cape Fear High",
+        "americanIndian": 3,
+        "black": 1,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Cliffdale Elementary",
+        "americanIndian": 0,
+        "black": 1,
+        "hispanic": 1,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Cross Creek Early College",
+        "americanIndian": 0,
+        "black": 4,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 4
+    },
+    {
+        "name": "Cumberland Mills Elementary",
+        "americanIndian": 0,
+        "black": 18,
+        "hispanic": 1,
+        "multiracial": 1,
+        "white": 5
+    },
+    {
+        "name": "Cumberland Road Elementary",
+        "americanIndian": 0,
+        "black": 113,
+        "hispanic": 14,
+        "multiracial": 5,
+        "white": 37
+    },
+    {
+        "name": "Douglas Byrd High",
+        "americanIndian": 2,
+        "black": 2,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Douglas Byrd Middle",
+        "americanIndian": 1,
+        "black": 12,
+        "hispanic": 3,
+        "multiracial": 0,
+        "white": 4
+    },
+    {
+        "name": "E E Miller Elementary",
+        "americanIndian": 0,
+        "black": 194,
+        "hispanic": 13,
+        "multiracial": 4,
+        "white": 19
+    },
+    {
+        "name": "E E Smith High",
+        "americanIndian": 5,
+        "black": 4,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 7
+    },
+    {
+        "name": "E Melvin Honeycutt Elementary",
+        "americanIndian": 0,
+        "black": 17,
+        "hispanic": 1,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Elizabeth M Cashwell Elementary",
+        "americanIndian": 0,
+        "black": 42,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Ferguson-Easley Elementary",
+        "americanIndian": 0,
+        "black": 11,
+        "hispanic": 2,
+        "multiracial": 4,
+        "white": 22
+    },
+    {
+        "name": "Gallberry Farm Elementary",
+        "americanIndian": 3,
+        "black": 1,
+        "hispanic": 0,
+        "multiracial": 1,
+        "white": 0
+    },
+    {
+        "name": "Glendale Acres Elementary",
+        "americanIndian": 0,
+        "black": 1,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Grays Creek Elementary",
+        "americanIndian": 3,
+        "black": 12,
+        "hispanic": 0,
+        "multiracial": 1,
+        "white": 9
+    },
+    {
+        "name": "Grays Creek High",
+        "americanIndian": 0,
+        "black": 4,
+        "hispanic": 2,
+        "multiracial": 0,
+        "white": 4
+    },
+    {
+        "name": "Grays Creek Middle",
+        "americanIndian": 0,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 2
+    },
+    {
+        "name": "Howard L Hall Elementary",
+        "americanIndian": 0,
+        "black": 44,
+        "hispanic": 2,
+        "multiracial": 6,
+        "white": 6
+    },
+    {
+        "name": "Ireland Drive Middle",
+        "americanIndian": 6,
+        "black": 7,
+        "hispanic": 0,
+        "multiracial": 3,
+        "white": 1
+    },
+    {
+        "name": "J W Coon Elementary",
+        "americanIndian": 0,
+        "black": 3,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 4
+    },
+    {
+        "name": "J W Seabrook Elementary",
+        "americanIndian": 0,
+        "black": 14,
+        "hispanic": 4,
+        "multiracial": 6,
+        "white": 9
+    },
+    {
+        "name": "Jack Britt High",
+        "americanIndian": 0,
+        "black": 2,
+        "hispanic": 1,
+        "multiracial": 2,
+        "white": 1
+    },
+    {
+        "name": "Lewis Chapel Middle",
+        "americanIndian": 1,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Lillian Black Elementary",
+        "americanIndian": 0,
+        "black": 1,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 2
+    },
+    {
+        "name": "Long Hill Elementary",
+        "americanIndian": 0,
+        "black": 14,
+        "hispanic": 1,
+        "multiracial": 1,
+        "white": 0
+    },
+    {
+        "name": "Loyd E Auman Elementary",
+        "americanIndian": 0,
+        "black": 10,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Luther Nick Jeralds Middle",
+        "americanIndian": 0,
+        "black": 3,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 3
+    },
+    {
+        "name": "Mac Williams Middle",
+        "americanIndian": 1,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Manchester Elementary",
+        "americanIndian": 0,
+        "black": 0,
+        "hispanic": 1,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Margaret Willis Elementary",
+        "americanIndian": 0,
+        "black": 2,
+        "hispanic": 1,
+        "multiracial": 1,
+        "white": 0
+    },
+    {
+        "name": "Massey Hill Classical High",
+        "americanIndian": 0,
+        "black": 28,
+        "hispanic": 15,
+        "multiracial": 5,
+        "white": 9
+    },
+    {
+        "name": "Morganton Road Elementary",
+        "americanIndian": 2,
+        "black": 15,
+        "hispanic": 1,
+        "multiracial": 2,
+        "white": 4
+    },
+    {
+        "name": "New Century International Elementary",
+        "americanIndian": 0,
+        "black": 3,
+        "hispanic": 1,
+        "multiracial": 2,
+        "white": 1
+    },
+    {
+        "name": "Pine Forest High",
+        "americanIndian": 0,
+        "black": 4,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Ponderosa Elementary",
+        "americanIndian": 0,
+        "black": 1,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Raleigh Road Elementary",
+        "americanIndian": 0,
+        "black": 11,
+        "hispanic": 2,
+        "multiracial": 2,
+        "white": 1
+    },
+    {
+        "name": "Ramsey Street High",
+        "americanIndian": 0,
+        "black": 9,
+        "hispanic": 2,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Reid Ross Classical High",
+        "americanIndian": 0,
+        "black": 6,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 2
+    },
+    {
+        "name": "Reid Ross Classical Middle",
+        "americanIndian": 0,
+        "black": 3,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Rockfish Elementary",
+        "americanIndian": 0,
+        "black": 19,
+        "hispanic": 5,
+        "multiracial": 0,
+        "white": 2
+    },
+    {
+        "name": "Seventy-First Classical Middle",
+        "americanIndian": 0,
+        "black": 11,
+        "hispanic": 1,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Seventy-First High",
+        "americanIndian": 0,
+        "black": 39,
+        "hispanic": 5,
+        "multiracial": 3,
+        "white": 2
+    },
+    {
+        "name": "Sherwood Park Elementary",
+        "americanIndian": 0,
+        "black": 45,
+        "hispanic": 4,
+        "multiracial": 4,
+        "white": 19
+    },
+    {
+        "name": "South View High",
+        "americanIndian": 4,
+        "black": 94,
+        "hispanic": 13,
+        "multiracial": 23,
+        "white": 9
+    },
+    {
+        "name": "South View Middle",
+        "americanIndian": 4,
+        "black": 6,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 10
+    },
+    {
+        "name": "Stedman Elementary",
+        "americanIndian": 1,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 1
+    },
+    {
+        "name": "Stedman Primary",
+        "americanIndian": 0,
+        "black": 0,
+        "hispanic": 0,
+        "multiracial": 2,
+        "white": 1
+    },
+    {
+        "name": "Stoney Point Elementary",
+        "americanIndian": 0,
+        "black": 4,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Teresa C Berrien Elementary",
+        "americanIndian": 0,
+        "black": 48,
+        "hispanic": 9,
+        "multiracial": 6,
+        "white": 3
+    },
+    {
+        "name": "Terry Sanford High",
+        "americanIndian": 0,
+        "black": 6,
+        "hispanic": 0,
+        "multiracial": 0,
+        "white": 0
+    },
+    {
+        "name": "Walker Spivey Elementary",
+        "americanIndian": 0,
+        "black": 40,
+        "hispanic": 9,
+        "multiracial": 2,
+        "white": 8
+    },
+    {
+        "name": "Warrenwood Elementary",
+        "americanIndian": 0,
+        "black": 120,
+        "hispanic": 9,
+        "multiracial": 11,
+        "white": 15
+    },
+    {
+        "name": "Westover High",
+        "americanIndian": 0,
+        "black": 262,
+        "hispanic": 30,
+        "multiracial": 14,
+        "white": 19
+    },
+    {
+        "name": "Westover Middle",
+        "americanIndian": 3,
+        "black": 36,
+        "hispanic": 7,
+        "multiracial": 3,
+        "white": 2
+    },
+    {
+        "name": "William H Owen Elementary",
+        "americanIndian": 0
+    }
+]}
